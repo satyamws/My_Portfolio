@@ -73,3 +73,55 @@ I contributed to this project during a 4-month internship, with around 2 months 
 ![vlcsnap-error256](https://github.com/user-attachments/assets/bff275ba-c475-4e6e-98e4-4789b3963a11)
 
 
+
+# 🧍‍♂️ Ergo – Ergonomics Assessment & Health Registration App
+
+**Type:** Professional Project (Sole Developer)  
+**Duration:** ~1 year  
+**Platform:** Android/iOS  
+**Engine:** Unity  
+**Domain:** Occupational Health / Ergonomics  
+
+## 🧾 Project Summary  
+*Ergo* is a health and ergonomics assessment application developed for warehouse environments. The tool enables workers to register physical discomfort and input job-specific details to evaluate the risk of injury. The goal is to assist safety teams in recommending targeted treatments or ergonomic interventions based on real-time user feedback.
+
+As the sole developer, I was responsible for the complete lifecycle of the app—from UX design to implementation, logic, and UI polish.
+
+## 👤 Key Features & Workflow  
+
+1. **User Registration**  
+   - Workers enter personal details (e.g., name, department).
+
+2. **Pain Identification**  
+   - Users select the **affected body area**.  
+   - Indicate the **severity level**: Low, Medium, or High.
+
+3. **Load & Handling Info**  
+   - Input job-specific physical data:
+     - Type of load
+     - Weight
+     - Lifting/carrying angle
+     - Body rotation
+     - Carrying method
+
+4. **Risk Scoring & Output**  
+   - The app calculates a **risk score** based on ergonomic assessment logic.  
+   - Displays suggested **intervention or treatment path** for each case.
+
+## 🛠️ Responsibilities  
+- Solely designed and developed the app using **Unity** and C#.  
+- Built intuitive UI for both **mouse and touchscreen input**.  
+- Designed backend logic to map pain levels and lifting data to ergonomic risk scores.  
+- Worked directly with the health & safety team to align features with real-world ergonomic standards.  
+- Optimized the app for deployment on warehouse **kiosks and tablets**.
+
+### 📸 Screenshots
+
+![WhatsApp Image 2025-06-20 at 12 31 30_a033b279](https://github.com/user-attachments/assets/41c32e9c-477d-4997-b6fe-1954236c183d)
+![WhatsApp Image 2025-06-20 at 12 31 30_f8b2c867](https://github.com/user-attachments/assets/091000ad-a06b-4942-a14c-7efadc03bb22)
+![ErgoY-07](https://github.com/user-attachments/assets/357d5cd1-5c2e-4222-a21f-adc9d2e37965)
+![ErgoY-07b](https://github.com/user-attachments/assets/80d97efd-557d-49d0-819d-cc3250d725e8)
+![WhatsApp Image 2025-06-20 at 12 31 31_52fcd6e4](https://github.com/user-attachments/assets/2fff938a-bbce-4a64-82c4-212dacc30483)
+![WhatsApp Image 2025-06-20 at 12 31 30_e48ebbf5](https://github.com/user-attachments/assets/15ec279e-d816-4c90-8fa0-917e7cab0302)
+![WhatsApp Image 2025-06-20 at 12 31 31_9afef1ba](https://github.com/user-attachments/assets/2b3d49b5-ff46-4230-8604-1c40b531108f)
+
