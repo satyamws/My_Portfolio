@@ -352,6 +352,7 @@ This was a large-scale professional project involving multiple teams. My role wa
 
 ## 📸 Screenshots  
 
+![Screenshot 2025-06-20 134256](https://github.com/user-attachments/assets/b16b505f-0d48-4638-85be-f2fe2596aaa1)
 ![WhatsApp Image 2025-06-20 at 13 45 37_8f87117c](https://github.com/user-attachments/assets/eed9838b-3c63-4317-8755-134e69fb7b5c)
 ![WhatsApp Image 2025-06-20 at 13 45 37_ed4b5688](https://github.com/user-attachments/assets/f2f40e3d-1032-4d91-a07a-279acb619263)
 ![WhatsApp Image 2025-06-20 at 13 45 36_62927416](https://github.com/user-attachments/assets/bece2197-c943-40d1-a6fe-d2467676b551)
