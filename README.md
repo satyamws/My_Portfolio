@@ -177,3 +177,44 @@ I developed this app end-to-end during my internship, handling everything from U
 
 
 
+# 🎲 3D Ludo – Multiplayer Prototype (Android & iOS)
+
+**Type:** Prototype  
+**Platform:** Android & iOS  
+**Engine:** Unity  
+**Networking:** Photon PUN 2 (Photon Unity Networking)  
+**Genre:** Board Game / Multiplayer  
+**Duration:** ~1 month  
+
+## 🧾 Project Summary  
+*3D Ludo* is a multiplayer mobile prototype of the classic board game Ludo, built using **Photon PUN 2** for real-time networked gameplay. Designed for both Android and iOS platforms, this prototype focused on implementing smooth cross-device connectivity, turn-based logic, and a 3D visual environment.
+
+The goal of this prototype was to explore online multiplayer mechanics, custom room creation, and syncing gameplay actions between players in real time.
+
+## 🌐 Core Features  
+- **Online Multiplayer:**  
+  - Real-time game sessions using **Photon servers**.  
+  - Support for up to 4 players in a single room.  
+
+- **Room Management:**  
+  - Create and join public or private game rooms.  
+  - Auto-matchmaking and player readiness checks.
+
+- **Turn-Based Gameplay:**  
+  - Synced dice rolls across clients.  
+  - Proper turn rotation and player movement rules.  
+
+- **3D Environment:**  
+  - Fully rendered Ludo board and tokens in 3D space.  
+  - Interactive UI for rolling dice and managing moves.  
+
+## 🛠️ My Responsibilities  
+- Built the **entire prototype** in Unity as a solo developer.  
+- Integrated **Photon PUN 2** for multiplayer networking.  
+- Designed and implemented **custom room logic** and player synchronization.  
+- Developed the **turn-based system**, dice logic, and movement sync.  
+- Tested and optimized for deployment on both Android and iOS platforms.
+
+## 📸 Screenshots  
+
+![WhatsApp Image 2025-06-20 at 13 21 12_1af1e422](https://github.com/user-attachments/assets/68252352-e3c5-43c9-b842-a5ae280c43f5)
