@@ -115,7 +115,6 @@ As the sole developer, I was responsible for the complete lifecycle of the app�
 - Built intuitive UI for both **mouse and touchscreen input**.  
 - Designed backend logic to map pain levels and lifting data to ergonomic risk scores.  
 - Worked directly with the health & safety team to align features with real-world ergonomic standards.  
-- Optimized the app for deployment on warehouse **kiosks and tablets**.
 
 ### 📸 Screenshots
 
@@ -269,7 +268,7 @@ As the sole developer, I was responsible for the full development process, inclu
 **Platform:** Oculus Quest, PC VR  
 **Engine:** Unity  
 **Genre:** Educational / Exploration / Space Adventure  
-**Duration:** Ongoing | My Contribution: ~3 months  
+**Duration:** My Contribution: ~3 months  
 **Role:** Gameplay Module Developer | QA & Testing  
 
 ## 🧾 Project Summary  
@@ -286,13 +285,10 @@ The project was developed by a cross-functional team of designers and developers
   - Designed to promote creativity and pattern recognition.
 
 - **Asteroid and Alien Encounters:**  
-  - Players can **shoot asteroids or alien obstacles** using interactive tools, adding excitement and engagement.  
-
-- **Voiceover & Visual Narration:**  
-  - Informative content is delivered via **voiceovers** and **floating 3D UI panels** as players move through space.  
+  - Players can **shoot asteroids or alien obstacles** using interactive tools, adding excitement and engagement.   
 
 ## 🛠️ My Responsibilities  
-- Developed gameplay systems for **asteroid shooting** and **laser-based constellation drawing**.  
+- Developed gameplay systems for Spaceship functionality and other game logics.  
 - Assisted in building the **UI panels** that show dynamic educational content near planets.  
 - Conducted **VR testing** across Oculus Quest and PC VR for performance, comfort, and kid-friendly controls.  
 - Collaborated with the design team to **refine player interactions** and ensure intuitive use for children.  
@@ -318,7 +314,7 @@ Other areas like art, level design, and content scripting were handled by teamma
 **Engine:** Unity  
 **Genre:** Card Battler / Strategy / Blockchain Game  
 **Duration:** ~3–4 months  
-**Role:** Gameplay Development | Feature Integration | Multiplayer Systems
+**Role:** Gameplay Development | Feature Integration | Simulation
 
 ## 🧾 Project Overview  
 *Age of Gods* is a **play-to-earn mobile card game** that features gods and deities from ancient mythologies around the world. Built on blockchain technology, it allows players to collect, battle, and trade **NFT cards**, while earning in-game rewards and participating in global events.
@@ -344,7 +340,6 @@ As part of the development team, I contributed to implementing gameplay systems,
 
 ## 🛠️ My Responsibilities  
 - Developed core card battle mechanics and implemented **turn-based combat logic**.  
-- Collaborated with the blockchain team to **integrate NFT assets** and token reward logic into gameplay.  
 - Contributed to **multiplayer features**, including guild systems and matchmaking.  
 - Worked with designers to prototype and test **boss battle encounters** and special ability systems.  
 - Participated in **QA and optimization** for cross-platform stability on both Android and iOS.
