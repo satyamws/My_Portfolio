@@ -306,3 +306,54 @@ Other areas like art, level design, and content scripting were handled by teamma
 ## 📸 Screenshots
 
 ![Screenshot 2025-06-20 133826](https://github.com/user-attachments/assets/cc323012-7ae9-46f6-8066-0d0f6fd839b6)
+
+
+
+# 🃏 Age of Gods – NFT-Based Card Battle Game
+
+**Type:** Professional Project (Team Member – Developer)  
+**Platform:** Android & iOS  
+**Engine:** Unity  
+**Genre:** Card Battler / Strategy / Blockchain Game  
+**Duration:** ~3–4 months  
+**Role:** Gameplay Development | Feature Integration | Multiplayer Systems
+
+## 🧾 Project Overview  
+*Age of Gods* is a **play-to-earn mobile card game** that features gods and deities from ancient mythologies around the world. Built on blockchain technology, it allows players to collect, battle, and trade **NFT cards**, while earning in-game rewards and participating in global events.
+
+As part of the development team, I contributed to implementing gameplay systems, integrating multiplayer features, and supporting NFT mechanics in Unity.
+
+## 🔑 Core Features
+
+### 🎮 Gameplay & Progression  
+- **Turn-Based Card Battles** featuring gods with unique abilities and elemental affinities.  
+- **Progression System** where players level up gods and unlock new powers.  
+- **Boss Battles** with special mechanics and rare loot opportunities.
+
+### 🌐 Multiplayer & Guilds  
+- **Guild Mode** with team-based battles, guild challenges, and a guild shop.  
+- **Global Leaderboards** for competitive rankings and seasonal events.  
+- **Real-Time Multiplayer** with matchmaking and ranking tiers.
+
+### 💸 Blockchain & Economy  
+- **Play-to-Earn Mechanics**: Players earn tokens through battles, challenges, and events.  
+- **NFT Marketplace**: Trade gods, card packs, and in-game assets with other players.  
+- Integrated wallet and secure NFT transaction flows within the app.
+
+## 🛠️ My Responsibilities  
+- Developed core card battle mechanics and implemented **turn-based combat logic**.  
+- Collaborated with the blockchain team to **integrate NFT assets** and token reward logic into gameplay.  
+- Contributed to **multiplayer features**, including guild systems and matchmaking.  
+- Worked with designers to prototype and test **boss battle encounters** and special ability systems.  
+- Participated in **QA and optimization** for cross-platform stability on both Android and iOS.
+
+## 🧑‍🤝‍🧑 Team Context  
+This was a large-scale professional project involving multiple teams. My role was within the Unity development team focused on gameplay systems and client-side functionality.
+
+## 📸 Screenshots  
+
+![WhatsApp Image 2025-06-20 at 13 45 37_8f87117c](https://github.com/user-attachments/assets/eed9838b-3c63-4317-8755-134e69fb7b5c)
+![WhatsApp Image 2025-06-20 at 13 45 37_ed4b5688](https://github.com/user-attachments/assets/f2f40e3d-1032-4d91-a07a-279acb619263)
+![WhatsApp Image 2025-06-20 at 13 45 36_62927416](https://github.com/user-attachments/assets/bece2197-c943-40d1-a6fe-d2467676b551)
+![WhatsApp Image 2025-06-20 at 13 45 36_0918ecdc](https://github.com/user-attachments/assets/7e6001e9-c7ef-47d2-8213-e15f899951a1)
+
