@@ -261,3 +261,48 @@ As the sole developer, I was responsible for the full development process, inclu
 
 
 
+# 🚀 Kids VR Game – Space Exploration for Oculus Quest / PC VR
+
+**Type:** Professional Project (Team Collaboration)  
+**Platform:** Oculus Quest, PC VR  
+**Engine:** Unity  
+**Genre:** Educational / Exploration / Space Adventure  
+**Duration:** Ongoing | My Contribution: ~3 months  
+**Role:** Gameplay Module Developer | QA & Testing  
+
+## 🧾 Project Summary  
+*Kids VR Game* is an immersive educational experience designed for children to explore space in an interactive and engaging way. Built for **Oculus Quest and PC VR**, the game puts the player inside a virtual spaceship traveling through a stylized galaxy, encountering planets, asteroids, constellations, and alien life forms. 
+
+The project was developed by a cross-functional team of designers and developers. My role involved working on specific gameplay modules and conducting testing to ensure smooth and safe interactions for younger users.
+
+## 🌌 Gameplay & Learning Features  
+- **Planetary Exploration:**  
+  - Players fly past planets and view fun facts like size, moons, atmosphere, and mineral composition.  
+
+- **Constellation Creation:**  
+  - Using a laser pointer from the spaceship, players **connect stars** to form constellations.  
+  - Designed to promote creativity and pattern recognition.
+
+- **Asteroid and Alien Encounters:**  
+  - Players can **shoot asteroids or alien obstacles** using interactive tools, adding excitement and engagement.  
+
+- **Voiceover & Visual Narration:**  
+  - Informative content is delivered via **voiceovers** and **floating 3D UI panels** as players move through space.  
+
+## 🛠️ My Responsibilities  
+- Developed gameplay systems for **asteroid shooting** and **laser-based constellation drawing**.  
+- Assisted in building the **UI panels** that show dynamic educational content near planets.  
+- Conducted **VR testing** across Oculus Quest and PC VR for performance, comfort, and kid-friendly controls.  
+- Collaborated with the design team to **refine player interactions** and ensure intuitive use for children.  
+- Helped optimize modules to meet **VR safety and accessibility guidelines** for younger audiences.
+
+## 🧑‍🤝‍🧑 Team Context  
+This project was developed collaboratively. My contributions were focused on:
+- Gameplay mechanics implementation  
+- Interaction design polish  
+- QA and comfort testing  
+Other areas like art, level design, and content scripting were handled by teammates.
+
+## 📸 Screenshots
+
+![Screenshot 2025-06-20 133826](https://github.com/user-attachments/assets/cc323012-7ae9-46f6-8066-0d0f6fd839b6)
