@@ -125,3 +125,55 @@ As the sole developer, I was responsible for the complete lifecycle of the app�
 ![WhatsApp Image 2025-06-20 at 12 31 30_e48ebbf5](https://github.com/user-attachments/assets/15ec279e-d816-4c90-8fa0-917e7cab0302)
 ![WhatsApp Image 2025-06-20 at 12 31 31_9afef1ba](https://github.com/user-attachments/assets/2b3d49b5-ff46-4230-8604-1c40b531108f)
 
+
+
+# 👋 Slap App Game – Corporate Stress-Relief Mobile App
+
+**Type:** Professional Project (Sole Developer)  
+**Platform:** Android & iOS  
+**Engine:** Unity  
+**Genre:** Humor / Casual / Corporate Fun  
+**Duration:** ~1.5 months  
+
+## 🧾 Project Summary  
+*Slap App Game* is a lighthearted, mobile-friendly app created for corporate teams to anonymously vent workplace frustration in a humorous way. The app allows users to register fictionalized versions of colleagues or former coworkers, log incidents, and then interact with a customized avatar in a playful slap animation.
+
+I developed this app end-to-end during my internship, handling everything from UI/UX to backend integration and cross-platform deployment.
+
+## 🕹️ Gameplay Flow  
+
+1. **User & Target Registration**  
+   - The player enters the name of a colleague or ex-colleague.  
+   - Logs an **incident description** and **approximate time period**.
+
+2. **Avatar Creation**  
+   - Users customize a cartoon-style **avatar** representing the person (abuser).  
+   - Features include face, hairstyle, clothing, etc.
+
+3. **Slap Interaction**  
+   - On the final screen, the user **taps the avatar’s face** to "slap" them.  
+   - A humorous animation and sound effect play as feedback.
+
+4. **Persistent Dashboard**  
+   - The app saves abuser data (privately) to a **local/remote backend**.  
+   - Returning users can **slap existing avatars** again without recreating them.
+
+## 🛠️ Responsibilities  
+- Full development of the app using **Unity** for cross-platform support (iOS & Android).  
+- Designed the **avatar creation system**, including face and body part customization.  
+- Built out the **incident logging system** and **dashboard** to manage multiple entries.  
+- Integrated backend logic to persist user-submitted avatar data.  
+- Developed animation and sound feedback for slap interactions.  
+- Ensured a smooth and friendly **UI/UX** experience for non-gamers in a corporate environment.
+
+### 📸 Screenshots
+
+![Screenshot 2025-06-20 130116](https://github.com/user-attachments/assets/0c33f4cf-3749-4d15-a235-fbece098a557)
+![Screenshot 2025-06-20 130337](https://github.com/user-attachments/assets/c1389959-7b50-44c1-b0d5-4a55e8ac386d)
+![Screenshot 2025-06-20 125941](https://github.com/user-attachments/assets/a97a81a1-0343-4426-ae09-763c02fb56a4)
+![Screenshot 2025-06-20 130009](https://github.com/user-attachments/assets/1080efc3-dad1-4dd1-a094-ab61a227d0ea)
+![Screenshot 2025-06-20 130032](https://github.com/user-attachments/assets/242ccb9e-fa8b-4327-a57a-b4c297c21068)
+![Screenshot (29)](https://github.com/user-attachments/assets/954c4e62-fe2e-4428-970c-3932fbda8989)
+
+
+
