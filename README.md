@@ -133,7 +133,7 @@ As the sole developer, I was responsible for the complete lifecycle of the app�
 **Platform:** Android & iOS  
 **Engine:** Unity  
 **Genre:** Humor / Casual / Corporate Fun  
-**Duration:** ~1.5 months  
+**Duration:** ~6 months  
 
 ## 🧾 Project Summary  
 *Slap App Game* is a lighthearted, mobile-friendly app created for corporate teams to anonymously vent workplace frustration in a humorous way. The app allows users to register fictionalized versions of colleagues or former coworkers, log incidents, and then interact with a customized avatar in a playful slap animation.
@@ -184,7 +184,7 @@ I developed this app end-to-end during my internship, handling everything from U
 **Engine:** Unity  
 **Networking:** Photon PUN 2 (Photon Unity Networking)  
 **Genre:** Board Game / Multiplayer  
-**Duration:** ~1 month  
+**Duration:** ~4 month  
 
 ## 🧾 Project Summary  
 *3D Ludo* is a multiplayer mobile prototype of the classic board game Ludo, built using **Photon PUN 2** for real-time networked gameplay. Designed for both Android and iOS platforms, this prototype focused on implementing smooth cross-device connectivity, turn-based logic, and a 3D visual environment.
@@ -218,3 +218,46 @@ The goal of this prototype was to explore online multiplayer mechanics, custom r
 ## 📸 Screenshots  
 
 ![WhatsApp Image 2025-06-20 at 13 21 12_1af1e422](https://github.com/user-attachments/assets/68252352-e3c5-43c9-b842-a5ae280c43f5)
+
+
+
+# 💰 The Lost Gold – Jackbox Trivia Game Remake
+
+**Type:** Professional Project (Sole Developer)  
+**Platform:** PC  
+**Engine:** Unity  
+**Genre:** Trivia / Quiz / Remake  
+**Duration:** ~6 months  
+
+## 🧾 Project Summary  
+*The Lost Gold* is a trivia-based PC game developed as a remake of a legacy Jackbox title that was no longer compatible with modern operating systems. This project involved fully rebuilding the game from scratch while preserving its original gameplay structure, visual tone, and humor—ensuring a smooth experience on current hardware and OS environments.
+
+As the sole developer, I was responsible for the full development process, including game logic, UI, and content integration.
+
+## 🧩 Gameplay Overview  
+- **Single-player or Party-mode trivia** experience.  
+- Players progress through themed rounds by answering **multiple-choice questions**.  
+- Trivia includes a variety of categories: pop culture, general knowledge, wordplay, and more.  
+- Visual and audio feedback reinforces progress and engagement.  
+- Built-in scoring, round transitions, and humor elements maintain the spirit of the original.
+
+## 🛠️ My Responsibilities  
+- Reverse-engineered the original game's mechanics to rebuild the **entire game in Unity**.  
+- Implemented **UI/UX systems**, including question display, answer selection, score tracking, and transitions.  
+- Designed and developed custom tools to manage **question banks and logic branching**.  
+- Integrated **sound effects and animations** to retain the original game's style and tone.  
+- Optimized for modern PC compatibility (Windows 10/11).  
+- Coordinated with stakeholders to ensure content accuracy and user experience parity.
+
+## 🎯 Technical Focus  
+- Legacy game compatibility and reimplementation  
+- Custom quiz system architecture  
+- Dialogue-style narration and flow  
+- State management and data-driven design
+
+## 📸 Screenshots  
+
+![Screenshot 2025-06-20 132828](https://github.com/user-attachments/assets/86678a42-f8e4-44eb-aa22-dfc67537888d)
+
+
+
